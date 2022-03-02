@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "name": "Lisa",
+      "salary": "8000",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "name": "Lisa",
+      "salary": "2000",
+      "id": 4
+    }
+  ]
+}
